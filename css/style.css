@@ -14,7 +14,6 @@ body {
 }
 
 .nav-container {
-    border-right: 1px dashed red;
     flex: 0 0 2rem;
 }
 
@@ -23,7 +22,6 @@ body {
 }
 
 .profile-container {
-    border-left: 1px dashed red;
     flex: 1 1 25%;
 }
 
